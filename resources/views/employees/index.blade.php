@@ -26,7 +26,7 @@
                     <td>{{$employee->name}} </td>
                     <td>{{$employee->first_name}}</td>
                     <td>{{$employee->last_name}}</td>
-                    <td>{{$employee->company->name}} </td>
+                    <td>{{$employee->company->name}} </td>   
                     <td>{{$employee->start_date}} </td>
                     <td>{{$employee->position->name}}</td>
                     <td>
