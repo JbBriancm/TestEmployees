@@ -16,7 +16,7 @@
                     <td>Empresa</td>
                     <td>Fecha de ingreso</td>
                     <td>Puesto</td>
-                </tr>
+                </tr>   
             </thead>
             <tbody>
                 @foreach($employees as $employee)
